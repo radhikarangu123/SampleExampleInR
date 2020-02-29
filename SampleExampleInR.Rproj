@@ -1,0 +1,6 @@
+####Sample Example#####
+##choosing file from directory
+books<-read.csv(file.choose())
+##install packages
+install.packages("readxl")
+library(readxl)
